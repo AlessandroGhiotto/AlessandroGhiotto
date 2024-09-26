@@ -7,3 +7,6 @@ I'm a tech enthusiast who loves to learn about new things.
 - 🐍 Python
 - 🕸️ DLV (Answer Set Programming)
 - 🧮 Z3 Theorem Prover
+
+## Interests:
+- 🐎 Horses, 🌿 Vegetable gardening
