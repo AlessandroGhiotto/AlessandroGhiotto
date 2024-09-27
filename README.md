@@ -9,7 +9,6 @@ I'm a tech enthusiast who loves to learn about new things.
 - 🗂️ **Knowledge Representation**: RDF, RDFS, OWL (Protegè)
 - 🔧 **SMT Solver**: Z3 Theorem Prover
 - 🎨 **Design**: Canva, Paint.NET
-<!-- - 🔎 Query Languages: SQL, SPARQL #to be moved before Design after Calautti course  -->
+<!-- - 🔎 Query Languages: SQL, SPARQL # after Calautti course  -->
 
-## Interests:
-- 🐎 Horses, 🌿 Vegetable gardening
+<!-- ## Interests: - 🐎 Horses, 🌿 Vegetable gardening -->
