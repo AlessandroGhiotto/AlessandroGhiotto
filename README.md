@@ -13,6 +13,7 @@ I'm a tech enthusiast who loves to learn about new things.
 
 <!-- ## Interests: - 🐎 Horses, 🌿 Vegetable gardening -->
 
+<!-- 
 ### Skills:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -37,3 +38,4 @@ I'm a tech enthusiast who loves to learn about new things.
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-05122A?style=flat)&nbsp;
 ![Gensim](https://img.shields.io/badge/-Gensim-05122A?style=flat)
+-->
