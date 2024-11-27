@@ -1,9 +1,9 @@
 ![Header image](https://github.com/AlessandroGhiotto/AlessandroGhiotto/blob/main/profile-banner.png)
 
-
 I'm a tech enthusiast who loves to learn about new things.
 
 ## Skills:
+
 - 🐍 **Python**: data manipulation (NumPy, pandas), visualization (matplotlib, seaborn), machine learning (scikit-learn, PyTorch, Keras), and NLP (Hugging Face, Gensim).
 - 🔎 **Query Languages**: SQL, SPARQL
 - 🧠 **Logic Programming**: Answer Set Programming (DLV), Prolog
@@ -11,9 +11,9 @@ I'm a tech enthusiast who loves to learn about new things.
 - 🔧 **SMT Solver**: Z3 Theorem Prover
 - 🎨 **Design**: Canva, Paint.NET
 
-<!-- ## Interests: - 🐎 Horses, 🌿 Vegetable gardening -->
+<!-- ## sium Interests: - 🐎 Horses, 🌿 Vegetable gardening -->
 
-<!-- 
+<!--
 ### Skills:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
