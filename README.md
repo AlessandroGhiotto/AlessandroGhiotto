@@ -4,7 +4,7 @@ I'm a tech enthusiast who loves to learn about new things.
 
 ## Skills:
 
-- 🐍 **Python**: data manipulation (NumPy, pandas), visualization (matplotlib, seaborn), machine learning (scikit-learn, PyTorch, Keras), and NLP (Hugging Face, Gensim).
+- 🐍 **Python**: data manipulation (NumPy, pandas), visualization (matplotlib, seaborn), machine learning (scikit-learn, PyTorch, Keras), and NLP (Hugging Face, Gensim, NLTK).
 - 🔎 **Query Languages**: SQL, SPARQL
 - 🧠 **Logic Programming**: Answer Set Programming (DLV), Prolog
 - 🗂️ **Knowledge Representation**: RDF, RDFS, OWL (Protegè)
