@@ -4,8 +4,6 @@
 
 I'm a tech enthusiast passionate about **Artificial Intelligence**, **Machine Learning**, **NLP** and **Information Retrieval**.
 
----
-
 ## 🚀 Skills
 
 - 🐍 **Python & AI Development**
@@ -23,8 +21,6 @@ I'm a tech enthusiast passionate about **Artificial Intelligence**, **Machine Le
 - 🧠 **Logic Programming**: Answer Set Programming (DLV), Prolog
 - 🔧 **SMT Solver**: Z3 Theorem Prover
 - 🎨 **Design & Visualization**: Canva, Paint.NET
-
----
 
 ## ⚡ Favorite Projects
 
@@ -45,8 +41,6 @@ Developed a system to answer multiple-choice questions from the QASC dataset usi
 Implemented blurring and deblurring using L2, H1 regularization and window functions, leveraging the Fourier Transform and Convolutions.  
 🔗 [Live Web App](https://deconvolution-tikhonov.streamlit.app/)
 
----
-
 ## 🌱 Personal Interests
 
 🐎 Horses & Animals | 🌿 Countryside & Gardening | 📖 Reading | 🎮 Gaming
@@ -54,8 +48,6 @@ Implemented blurring and deblurring using L2, H1 regularization and window funct
 📜 Favorite Quote:
 
 > _"Make a bold hypothesis and then carefully back it up."_
-
----
 
 ### 📫 Let's Connect
 
