@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I'm a tech enthusiast passionate about **Artificial Intelligence**, **Machine Learning**, **NLP** and **Information Retrieval**.
+I'm a tech enthusiast passionate about AI and Machine Learning. <!-- **Artificial Intelligence**, **Machine Learning**, **NLP** and **Information Retrieval**. -->
 
 ## 🚀 Skills
 
@@ -45,10 +45,10 @@ Implemented blurring and deblurring using L2, H1 regularization and window funct
 
 🐎 Horses & Animals | 🌿 Countryside & Gardening | 📖 Reading | 🎮 Gaming
 
-📜 Favorite Quote:
+<!-- 📜 Favorite Quote:
 
-> _"Make a bold hypothesis and then carefully back it up."_
+> _"Make a bold hypothesis and then carefully back it up."_ -->
 
-### 📫 Let's Connect
+### 📫 Contact me
 
 Feel free to reach out! &nbsp; <a href="mailto:ghiottoalessandro03@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail"/></a>
