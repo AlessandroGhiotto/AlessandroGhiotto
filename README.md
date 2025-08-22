@@ -3,10 +3,11 @@
 ## 👋 About Me
 
 I'm a tech enthusiast passionate about AI and Machine Learning. <!-- **Artificial Intelligence**, **Machine Learning**, **NLP** and **Information Retrieval**. -->
+Currently pursuing an **MSc in High Performance Computing Engineering** at *Politecnico di Milano* (ongoing), after completing a **BSc in Artificial Intelligence** at *Università di Pavia*.
 
 ## 🚀 Skills
 
-- 🐍 **Python & AI Development**
+- 🐍 **Python**
 
   <!-- - **Data Manipulation**: NumPy, pandas -->
 
@@ -14,8 +15,10 @@ I'm a tech enthusiast passionate about AI and Machine Learning. <!-- **Artificia
   - **Machine Learning & Deep Learning**: scikit-learn, PyTorch, keras
   - **Natural Language Processing**: 🤗 transformers, gensim, NLTK, TextBlob
   - **Information Retrieval**: PyTerrier, FAISS
+  - **Quantum Computing**: PennyLane, Qiskit
   - **Web Applications**: streamlit
 
+- ⚙️ **C++** (Currently learning)
 - 🔎 **Query Languages**: SQL, SPARQL
 - 🗂️ **Knowledge Representation**: RDF, RDFS, OWL (Protegè, RFDLib)
 - 🧠 **Logic Programming**: Answer Set Programming (DLV), Prolog
@@ -24,22 +27,9 @@ I'm a tech enthusiast passionate about AI and Machine Learning. <!-- **Artificia
 
 ## ⚡ Favorite Projects
 
-#### Personalized IR on SE-PQA
-
-Retrieve the best answer for a given question on StackExchange, leveraging PyTerrier and FAISS for ranking.  
-🔗 [Live Web App](https://personalized-ir.streamlit.app/)
-
-#### SelectWise: Multiple Choice QA on QASC
-
-Developed a system to answer multiple-choice questions from the QASC dataset using:
-
-- Traditional methods: TF-IDF, Word2Vec, FastText, GloVe
-- Neural networks: Encoder-only & Decoder-only LLMs
-
-#### Image Deconvolution with Tikhonov Regularization
-
-Implemented blurring and deblurring using L2, H1 regularization and window functions, leveraging the Fourier Transform and Convolutions.  
-🔗 [Live Web App](https://deconvolution-tikhonov.streamlit.app/)
+- **Bachelor Thesis: Enhancing Text Classification with Synthetic Data** – Exploring LLMs for data generation for fine-tuning efficient encoder-only classifiers.
+- **Personalized IR on SE-PQA** – Retrieve the best answers on StackExchange using PyTerrier & FAISS. [Live App](https://personalized-ir.streamlit.app/)  
+- **Image Deconvolution** – Fourier-based deblurring with Tikhonov regularization. [Live App](https://deconvolution-tikhonov.streamlit.app/)
 
 ## 🌱 Personal Interests
 
