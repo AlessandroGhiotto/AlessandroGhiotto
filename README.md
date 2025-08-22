@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I'm a tech enthusiast passionate about AI and Machine Learning. <!-- **Artificial Intelligence**, **Machine Learning**, **NLP** and **Information Retrieval**. -->
+I'm a tech enthusiast passionate about AI and Machine Learning.  
 Currently pursuing an **MSc in High Performance Computing Engineering** at *Politecnico di Milano* (ongoing), after completing a **BSc in Artificial Intelligence** at *Università di Pavia*.
 
 ## 🚀 Skills
